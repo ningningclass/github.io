@@ -1,18 +1,21 @@
-## Welcome to Ningning Classes/欢迎来到宁宁课堂
+# Welcome to Ningning Classes/欢迎来到宁宁课堂
 
 宁宁课堂成立于2018年，由宁宁老师一手创办。为您的孩子提供英语、音乐最好的培训。
+![Image of Petroleum](images/STH70072.JPG)
 
-### [少儿音标](childenglish.md)
+## [少儿音标](childenglish.md)
+
 You can use the [editor on GitHub](https://github.com/ningningclass/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### 小学英语
+## 小学英语
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 初中英语
+## 初中英语
 
-### 钢琴入门
+## 钢琴入门
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
